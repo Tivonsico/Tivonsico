@@ -2,7 +2,7 @@
 
 你好，我是 **Tivonsico**，主要关注 **AI Agent 开发**与**后端工程**。
 
-目前在 **范式智能（Phancy）**担任 **AI 全栈开发实习生**，也是湖南大学计算机专业的本科生（2024 级）。
+目前在 **范式智能（Phancy）** 担任 **AI 全栈开发实习生**，也是湖南大学计算机专业的本科生（2024 级）。
 
 *AI full-stack development intern at Phancy · Computer Science undergraduate at Hunan University*
 
