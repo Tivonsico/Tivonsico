@@ -15,7 +15,7 @@
 | [法智通 · Lawcases RAG Agent](https://github.com/Tivonsico/lawcases-rag-agent) | 法律案例检索与问答，探索混合检索、Agentic RAG 和证据校验。 |
 | [商城后端](https://github.com/Tivonsico/shop-backend) | Java 后端学习项目。 |
 
-另外，我正在与两位学长合作开发 **SuperClaw**，欢迎交流。
+另外，我正在与两位学长合作开发 **[SuperClaw](https://github.com/Tivonsico/hnu-super-agent)**，欢迎来看看，也欢迎交流。
 
 ## Learning Journey
 
@@ -24,7 +24,7 @@
 - **2026.06** — 开始学习 Java 后端开发，完成商城后端项目。
 - **2026.07** — 学习 Coding Agent 架构，以 Claude Code 和 Codex 为参考；学习检索增强生成（RAG），搭建 minicode Agent 和 Lawcases RAG Agent 两个个人项目。
 - **2026.09** — 参考黑马程序员的 Bilibili 课程系统学习 Java 后端，包括 Redis、MySQL，同时学习 Python Web 开发与 FastAPI。
-- **2026.11** — 开始 AI 全栈开发实习，同时与两位学长（南大准研究生、中科院自动化所研一）合作构建 SuperClaw。
+- **2026.11** — 开始 AI 全栈开发实习，同时与两位学长（南大准研究生、中科院自动化所研一）合作构建 [SuperClaw](https://github.com/Tivonsico/hnu-super-agent)。
 
 ## Current Interests
 
